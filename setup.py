@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mjb_test',
-      version='0.1',
+      version='0.0.0',
       description='Michael Blanco testing making a python package.',
       url='https://github.com/miguelwhite',
       author='Michael Blanco',
