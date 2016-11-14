@@ -1,16 +1,16 @@
 # Test python library
 
-# Install dependencies
+## Install dependencies
 ```
 make dependencies
 ```
 
-# Run the tests
+## Run the tests
 ```
 make test
 ```
 
-# Build rpm (Will output to ./RPMS)
+## Build rpm (Will output to ./RPMS)
 ```
 make rpm VERSION='0.1.0'
 ```
