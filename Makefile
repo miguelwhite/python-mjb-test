@@ -2,6 +2,7 @@ ifndef VERBOSE
 .SILENT:
 endif
 
+VERSION := '0.0.0'
 PYTHON := $(shell which python)
 
 .PHONY: test bootstrap
